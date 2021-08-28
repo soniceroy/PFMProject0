@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="v60JVb" name="PFMProject0" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" pluginCharacteristicsValue="pluginIsSynth,pluginWantsMidiIn"
+              pluginManufacturer="soniceroy" pluginManufacturerCode="Eroy">
   <MAINGROUP id="KMUSVe" name="PFMProject0">
     <GROUP id="{D1B98062-F5A8-A1D3-1CAC-651B7B18D6AC}" name="Source">
       <FILE id="p88p7b" name="PluginProcessor.cpp" compile="1" resource="0"
